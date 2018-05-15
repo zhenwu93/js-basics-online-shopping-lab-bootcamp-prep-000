@@ -49,7 +49,7 @@ function removeFromCart(item) {
     }
   }
   return "That item is not in your cart."
-=======
+
   var itemIndex = getCart().indexOf(item);
     if(cart.includes(item)) {
       cart = cart.splice(itemIndex , 1);
