@@ -57,7 +57,6 @@ function removeFromCart(item) {
     } else {
       return "That item is not in your cart."
   }
->>>>>>> 350a4698283b5875d7027570eff7055fecdd5f9d
 }
 
 function placeOrder(cardNumber) {
